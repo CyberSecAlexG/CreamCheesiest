@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CreamCheesiest
 - 👀 I’m interested in gaming, tech, and volleyball.
-- 🌱 I’m currently learning Computer Science at the University Of Wollongong
+- 🌱 I’m currently studying Computer Science at the University Of Wollongong
 - 📫 How to reach me: CreamCheese#3924 (Discord)
 
 <!---
