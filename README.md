@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CreamCheesiest
+- 👋 Hi, I’m Alexander Giannetta!
 - 👀 I’m interested in gaming, tech, and volleyball.
 - 🌱 I’m currently studying Computer Science at the University Of Wollongong
 - 📫 How to reach me: _creamcheese (Discord)
